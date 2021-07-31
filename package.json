@@ -1,5 +1,5 @@
 {
-  "name": "laravelapi-vueui",
+  "name": "bawangapi-vueui",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.0.0-beta3",
     "core-js": "^3.6.5",
-    "core.js": "^0.4.2",
-    "jquery": "^3.6.0",
-    "popper.js": "^1.16.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.5"
   },

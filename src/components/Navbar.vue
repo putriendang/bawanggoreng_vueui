@@ -12,7 +12,7 @@
           <router-link class="nav-link" to="/">Home</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/groups">Groups</router-link>
+          <router-link class="nav-link" to="/nama">Groups</router-link>
         </li>
       </ul>
     </div>
